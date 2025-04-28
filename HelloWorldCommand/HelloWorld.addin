@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Name>ArchiHelloWorld</Name>
+    <Assembly>$(AppData)\Autodesk\REVIT\Addins\2025\HelloWorldCommand.dll</Assembly>
+    <AddInId>3F2504E0-4F89-11D3-9A0C-0305E82C3301</AddInId>
+    <VendorId>ARCHI</VendorId>
+    <VendorDescription>http://goto.archi/revit-plugins</VendorDescription>
+    <Description>Pops up a dialog linking to Archi’s Revit plugins page.</Description>
+  </AddIn>
+</RevitAddIns>
